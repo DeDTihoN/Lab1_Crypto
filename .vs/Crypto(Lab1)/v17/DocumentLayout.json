@@ -1,0 +1,132 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\source\\repos\\Crypto(Lab1)\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43FDAA4C-7BA0-4746-B449-72EBBA80178F}|Crypto(Lab1).csproj|c:\\users\\pc\\source\\repos\\crypto(lab1)\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43FDAA4C-7BA0-4746-B449-72EBBA80178F}|Crypto(Lab1).csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FDAA4C-7BA0-4746-B449-72EBBA80178F}|Crypto(Lab1).csproj|c:\\users\\pc\\source\\repos\\crypto(lab1)\\ariphmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43FDAA4C-7BA0-4746-B449-72EBBA80178F}|Crypto(Lab1).csproj|solutionrelative:ariphmetic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FDAA4C-7BA0-4746-B449-72EBBA80178F}|Crypto(Lab1).csproj|c:\\users\\pc\\source\\repos\\crypto(lab1)\\bigintegerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43FDAA4C-7BA0-4746-B449-72EBBA80178F}|Crypto(Lab1).csproj|solutionrelative:bigintegerextensions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{43FDAA4C-7BA0-4746-B449-72EBBA80178F}|Crypto(Lab1).csproj|c:\\users\\pc\\source\\repos\\crypto(lab1)\\bignumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43FDAA4C-7BA0-4746-B449-72EBBA80178F}|Crypto(Lab1).csproj|solutionrelative:bignumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 859,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BigIntegerExtensions.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Crypto(Lab1)\\BigIntegerExtensions.cs",
+              "RelativeDocumentMoniker": "BigIntegerExtensions.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Crypto(Lab1)\\BigIntegerExtensions.cs",
+              "RelativeToolTip": "BigIntegerExtensions.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAswDEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T13:17:30.206Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Ariphmetic.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Crypto(Lab1)\\Ariphmetic.cs",
+              "RelativeDocumentMoniker": "Ariphmetic.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Crypto(Lab1)\\Ariphmetic.cs",
+              "RelativeToolTip": "Ariphmetic.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAuwL8AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:40:53.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Crypto(Lab1)\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Crypto(Lab1)\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-21T17:36:31.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BigNumber.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\source\\repos\\Crypto(Lab1)\\BigNumber.cs",
+              "RelativeDocumentMoniker": "BigNumber.cs",
+              "ToolTip": "C:\\Users\\pc\\source\\repos\\Crypto(Lab1)\\BigNumber.cs",
+              "RelativeToolTip": "BigNumber.cs",
+              "ViewState": "AQIAAOYBAAAAAAAAAAAiwP8BAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T08:02:32.201Z"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 205,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 407,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{ecb7191a-597b-41f5-9843-03a4cf275dde}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 252,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{004be353-6879-467c-9d1e-9ac23cdf6d49}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
