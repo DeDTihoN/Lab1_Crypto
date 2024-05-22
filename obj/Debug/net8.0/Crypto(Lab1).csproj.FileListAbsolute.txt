@@ -12,3 +12,4 @@ C:\Users\pc\source\repos\Crypto(Lab1)\obj\Debug\net8.0\refint\Crypto(Lab1).dll
 C:\Users\pc\source\repos\Crypto(Lab1)\obj\Debug\net8.0\Crypto(Lab1).pdb
 C:\Users\pc\source\repos\Crypto(Lab1)\obj\Debug\net8.0\Crypto(Lab1).genruntimeconfig.cache
 C:\Users\pc\source\repos\Crypto(Lab1)\obj\Debug\net8.0\ref\Crypto(Lab1).dll
+C:\Users\pc\source\repos\Crypto(Lab1)\obj\Debug\net8.0\Crypto(Lab1).sourcelink.json
